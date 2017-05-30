@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPLANE-CODE</string>
+
+    <string name="facebook_app_id">296382630807170</string>
+    <string name="cancel_login">Cancelar</string>
+    <string name="error_login">Error al Conectarse</string>
+
+    <string name="user_message">Usuario</string>
+    <string name="pass_message">Contraseña</string>
+    <string name="Login_name">GPLANE</string>
+    <string name="facebook_message">Ingresar con Facebook</string>
+    <string name="miss_up">¿Olvidate tu contraseña o clave?</string>
+    <string name="login_message">Iniciar Sesion</string>
+    <string name="go_web_message">Ir a la web</string>
+    <string name="title_activity_principal">principal</string>
+</resources>
